@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>GREETING</title>
+<title>Greeting Cards Store</title>
  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -35,24 +35,22 @@ ${successlogin}
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
       <li data-target="#myCarousel" data-slide-to="1"></li>
       <li data-target="#myCarousel" data-slide-to="2"></li>
-      <li data-target="#myCarousel" data-slide-to="3"></li>
+      
     </ol>
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="http://mediaxprint.biz/images/Greeting-Cards.jpg" alt="NO Image" width="450 pixel" height="400 pixel">
+        <img src="http://4.bp.blogspot.com/-id6eSEC6R68/VJecN9-suqI/AAAAAAAABRY/JLGMw728ySA/s1600/Merry-Christmas-stylish-text-paper-background-star-baubles-image-HD-stock-photo.jpg" alt="book" width="450 pixel" height="400 pixel">
       </div>
 
       <div class="item">
-        <img src="http://www.stillcreekpress.com/wp-content/uploads/greeting_cards.jpg" alt="No Image" width="450 pixel" height="400 pixel">
+        <img src="http://3.bp.blogspot.com/-l-726MW_Pko/Uuj2UXUObLI/AAAAAAAADxA/k3j7_JvN33Q/s1600/Happy+Valentines+Day+2014+Greetings+Cards+Ideas+HD+Wallpaper+Pink+Rose.jpg" alt="book" width="450 pixel" height="400 pixel">
       </div>
     
-      <div class="item">
-        <img src="http://4.bp.blogspot.com/-5-D0JsdNAOI/UDutsaISeEI/AAAAAAAAfYA/GohfugV5zqU/s1600/Wedding+card+sayings+(5).jpg" alt="No Image" width="450 pixel" height="400 pixel">
-      </div>
+      
 
       <div class="item">
-        <img src="http://4.bp.blogspot.com/-ehiHXVr25_s/UQZvmkUlHeI/AAAAAAAACv4/B4-tDJoodtc/s1600/i+love+you+greeting+cards+for+girlfriend+(2).jpg" alt="No image" width="450 pixel" height="400 pixel">
+        <img src="http://2.bp.blogspot.com/-KlBV1K_9dWo/Ty9xUTh_atI/AAAAAAAAPB0/IabGksxTLPo/s1600/valentine-day-Happy+Valentine+Day+Wallpaper.jpg" alt="book" width="450 pixel" height="400 pixel">
       </div>
     </div>
 
@@ -67,51 +65,63 @@ ${successlogin}
     </a>
   </div>
 </div>
-<center><h3>Greeting Card Sayings that will inspire your Creativity.</h3>
- </center>
-
-<!-- Wrap the rest of the page in another container to center all the content. -->
-
-    <div class="container marketing">
-
-      <!-- Three columns of text below the carousel -->
-      <div class="w">
-        <div class="col-lg-4">
-          <img class="img-circle" src="http://1.bp.blogspot.com/-de34X8e6RZ0/USonZcY5x7I/AAAAAAAAAHo/D6W6m1qUumg/s1600/Wedding-Invitation+cards+marriage+2013+wedding+cards+2014.jpg" alt="No image" width="140" height="140">
-          <h2>Marriage Cards</h2>
-          <p>In this category you can find many varities of Cards</p>
-      <!--     <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p> -->
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-          <img class="img-circle" src="https://tse1.mm.bing.net/th?id=OIP.QHpdsnIktg3Gghm8D_rT8AEsDp&pid=15.1&P=0&w=231&h=180" alt="No image" width="140" 
-
-height="140">
-          <h2>Birthday Cards</h2>
-          <p>In this category you can find many varities of Birthday Cards</p>
-        <!--   <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p> -->
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-          <img class="img-circle"src="http://esl.culips.com/wp-content/uploads/2013/02/Happy-Valentines-Day-19.jpg" alt="No image" width="140" height="140">
-          <h2>Valentine's Cards</h2>
-          <p>In this category you can find many varities of Valentine's Cards</p>
-         <!--  <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p> -->
-        </div><!-- /.col-lg-4 -->
-      </div><!-- /.row -->
-
-
-    
-     
-
+<div class="container-fluid bg-3 text-center">    
+  <h3>Categories</h3><br>
+  <div class="row">
+    <div class="col-sm-3">
+      <img src="http://valentinesday2017.iwishyouthesame.com/images/valentines-day-images-3.jpg"class="img-responsive" style="width:100%" alt="Image">
+      <h2>VALENTINES'S CARDS </h2>
+      <p>"Our love will shine like a thousand stars!Twinkling in the sky,impossible to break!Happy Valentines's Day!"</p>
+    </div>
+    <div class="col-sm-3"> 
       
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+      <img src="http://4.bp.blogspot.com/-iHYNGuS21K8/UNgoMHmqHHI/AAAAAAAAAZM/9izMr-VULVg/s1600/Happy+New+Year+Wishes+Most+Beautiful+and+Creative+Greeting+Cards+of+Happy+New+Year++2012.gif" class="img-responsive" style="width:100%" alt="Image">
+      <h2>NEW YEAR CARDS</h2>
+       <p>"Tomorrow,is the first blank page of a 365 page book.Write a good one."</p>
+    </div>
+    <div class="col-sm-3"> 
+      
+      <img src="http://4.bp.blogspot.com/-HLEN4u7M_Oc/Vi-MdxxqocI/AAAAAAAADXI/EnluCVnJFeQ/s1600/christmas-card-17035645.jpg"class="img-responsive" style="width:100%" alt="Image">
+      <h2>MERRY CHRISTMAS CARDS</h2>
+      <p>Love,Peace and Joy come down on earth on Christmas day to make you happy and cheerful.May Christmas Spread cheer in your lives!Merry Christmas!.</p>
+    </div>
+    <div class="col-sm-3">
+      
+      <img src="http://images.indianweddingcard.com/Product-original/D-305.jpg" style="width:100%" alt="Image">
+      <h2>WEDDING CARDS</h2>
+      <p>You're a very special couple you make the perfect pair this brings a wish for happiness in the future you will share.</p>
+    </div>
+  </div>
+</div><br>
 
+<div class="container-fluid bg-3 text-center">    
+  <div class="row">
+    <div class="col-sm-3">
+      
+      <img src="http://www.yourmomhatesthis.com/images/Birthday-Cards-001y4.gif" class="img-responsive" style="width:100%" alt="Image">
+      <h2>BIRTHDAY CARDS</h2>
+      <p>His goodness and mercy will be with you all your life,and you will live forever with him.</p>
+    </div>
+    <div class="col-sm-3"> 
+      
+      <img src="http://www.dilsecomments.com/graphics/Anniversary-3272.jpg" class="img-responsive" style="width:100%" alt="Image">
+      <h2>ANNIVERSARY CARDS</h2>
+      <p>True love is spending one day getting married..and the rest of your life feeling glad you did.Happy Anniversary!</p>
+    </div>
+    <div class="col-sm-3"> 
+      
+      <img src="http://www.birthdaychoice.net/wp-content/uploads/2012/05/Happy-Fathers-Day-Quotes-001.png" class="img-responsive" style="width:100%" alt="Image">
+     <h2>FATHER'S DAY CARDS </h2>
+     <p>In my thoughts,in my heart,in every part of my life,you are always with me,Dad,and always will be.Happy Father's Day</p>
+    </div>
+    <div class="col-sm-3">
+      
+      <img src="http://dekhnews.com/wp-content/uploads/2016/08/Happy-Friendship-Day-Quotes-and-Sayings-1.jpg" class="img-responsive" style="width:100%" alt="Image">
+      <h2>FRIENDSHIP DAY CARDS</h2>
+      <p>EveryOne Has a Friend During Each Stage Of Life.But Lucky One Has The Same Friend In All Stage of Life.</p>
+    </div>
+  </div>
+</div><br><br>
 
 
 

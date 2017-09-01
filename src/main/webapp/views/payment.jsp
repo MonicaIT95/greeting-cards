@@ -15,7 +15,7 @@ a
 }
 
    body {
-	background-image: url("http://eskipaper.com/images/necklace-hd-1.jpg");
+	background-image: url("http://img07.deviantart.net/2cbd/i/2013/003/1/1/greeting_card_paper_texture_background_by_desintgnmou-d5qcxtd.jpg");
 	background-repeat: no-repeat;
 	background-size:150%;
 	

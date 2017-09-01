@@ -77,11 +77,14 @@ function validatephone(phone) {
 
 	    var message = document.getElementById('message');
 
-	 
+	  /*  var goodColor = "#0C6";
+	    var badColor = "#FF9B37"; */
 
 	    if(phone.value.length!=10){
 
-	        	        message.innerHTML = "required 10 digits, match requested format!"
+	        /* phone.style.backgroundColor = badColor;
+	        phone.style.color = badColor; */
+	        message.innerHTML = "required 10 digits, match requested format!"
 	    }else{
 	    	message.innerHTML="phone number is valid"
 	    }
@@ -104,7 +107,7 @@ function validatephone(phone) {
 </script>
 <style>
 .background{
-	background-image: url("http://wallpaperscraft.com/image/book_pages_paper_110950_1920x1080.jpg");
+	background-image: url("http://4.bp.blogspot.com/-k3xdqD4C9U0/TqNiLZsaSpI/AAAAAAAAIUw/ifrbwpNxEHk/s1600/2.jpg");
 	background-repeat: repeat;
 	background-width: 150%;
 	background-height: 150%;
@@ -218,7 +221,6 @@ input::-webkit-input-placeholder {
 
 </style>
 	</head>
-	
 	<body >
 	<jsp:include page="header.jsp"></jsp:include>
 	<div class="background">

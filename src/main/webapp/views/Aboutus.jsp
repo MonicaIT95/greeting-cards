@@ -28,18 +28,26 @@ body {
 
       <div class="rowe">
         <div class="col-md-7">
-          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">About Us</span></h2>
-          <center><h3>Marriage are Made in Heaven</center></h3>
-          <h3>Marriage Cards are Made in Monica</h3>
-          <p class="lead">May your life together be full of love and your love be full of life .
+          <h2 class="featurette-heading"> <span class="text-muted">About Us</span></h2>
+          <p class="lead">greetingcardsstore.com was established in india in 2012, under the name Greeting Cards store, and has always focused on publishing Greeting Cards for all the Peoples. 
+.With its headquarters in Chennai and  Greeting Card Store also has offices in Mumbai, Bangalore and Delhi
           </p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" src="http://blog.artistsmarketonline.com/wp-content/uploads/greeting_cards.jpg" alt="image"><br>
+          <img class="featurette-image img-responsive center-block" src="http://www.vromansbookstore.com/files/vromansbookstore/greeting_cards_aisle_brighter.jpg" alt="No image"><br>
           <br>
         </div>
    
-  
+  <div>   
+<p class="lead">   Every Cards purchased from Better World Cards contributes to individual literacy throughout the world and the potential for a better life. Clearly, we can not do this work without our customers. That is why we are so passionate about trying to offer the best price, selection, customer service, and overall shopping experience.
+Thanks for joining us in our mission to create a better world.</p>
+      </div>
+      </div> 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 <jsp:include page="footer.jsp"></jsp:include>

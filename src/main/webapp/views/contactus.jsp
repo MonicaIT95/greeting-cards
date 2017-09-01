@@ -15,7 +15,7 @@
 <style type="text/css">
 
 .back {
-	background-image: url("http://previews.123rf.com/images/urfingus/urfingus1601/urfingus160100045/50181374-3d-render-of-big-pile-of-colorful-books-on-the-right-side-isolated-on-a-white-background--Stock-Photo.jpg");
+	background-image: url("http://img07.deviantart.net/2cbd/i/2013/003/1/1/greeting_card_paper_texture_background_by_desintgnmou-d5qcxtd.jpg");
 	background-size:100%;
 }
 
@@ -23,13 +23,30 @@
 </head>
 <body>
 <jsp:include page="header.jsp"></jsp:include>
-<div class="w3-container w3-padding-64 w3-blue-grey w3-grayscale-min w3-xlarge">
-  <div class="w3-content">
-    <h1 class="w3-center w3-jumbo" style="margin-bottom:64px">Contact</h1>
-    <p>Email ID: <a href="mailto:monicarajuit@gmail.com">monicarajuit@gmail.com</a>.</p>
-    <p>Find us at some address at some place or call us at 91-8903445788</p>
-    <p><span class="w3-tag">FYI!</span> We understand your needs and we will Provide the Cards to satisfy the biggerst criteria of them all, both look and beautiful.</p>
+<div class="back">
+<h1 class="entry-title">Contact</h1>
+<div class="entry-content">
+<p><strong>Greeting Card Store Ltd</strong><br />
+27 Gandhi Street<br />
 
+Chennai<br />
+India</p>
+<p>Tel (IN): +44 (0) 20 51 236<br />
+<a href="mailto:public@greetingstore.com">public@greetingstore.in</a></p>
+<p><strong>Company registration number  :</strong> 7257821</p>
+<p><strong>CEO</strong><br />
+Dhivya<br/>
+ <a href="mailto:ceo@greetingstore.com">ceo@greetingstore.in</a><br />
+Tel: +44 58 56 58 5</p>
+ <br />
+<p><strong>Responsible for Press Relations and Cooperations</strong><br />
+Gowtham<br />
+<a href="mailto:tbm@greetingstore.in">tbm@greetingstore.in</a><br />
+Tel: +44 81 81 20 2</p>
+<p><strong>Responsible for Sales and supplies</strong><br />
+mark<br />
+<a href="mailto:kbm@greetingstore.com">kbm@greetingstore.in</a><br />
+Tel: +44 28 56 92 5</p>
 <br/>
 <br/>
 <br/>

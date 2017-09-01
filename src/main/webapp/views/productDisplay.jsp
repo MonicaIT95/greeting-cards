@@ -12,7 +12,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
 
-<title>Greeting</title>
+<title>Greeting Cards</title>
 <style>
 div{
 font-family: monotype corsiva;
@@ -30,12 +30,17 @@ font-family: monotype corsiva;
         <div class="row">
 
             <div class="col-md-3">
-                <p class="lead">GREETING CARDS</p>
+                <p class="lead">GREEING CARDS</p>
                 <div class="list-group">
-                    <a href="categoryDropdown/101" class="list-group-item">Marriage Cards</a>
-                    <a href="categoryDropdown/102" class="list-group-item">Birthday Cards</a>
-                    <a href="categoryDropdown/103" class="list-group-item">Valentines Cards</a>
-                </div>
+                    <a href="categoryDropdown/101" class="list-group-item">Valentine's Card</a>
+                     <a href="categoryDropdown/102" class="list-group-item">New year Cards</a>
+                    <a href="categoryDropdown/103" class="list-group-item">Merry Christmas Cards</a>
+                    <a href="categoryDropdown/103" class="list-group-item">Wedding Cards</a>
+                    <a href="categoryDropdown/103" class="list-group-item">BirthdayCards</a>
+                    <a href="categoryDropdown/103" class="list-group-item">Anniversary Cards</a>
+                    <a href="categoryDropdown/103" class="list-group-item">Father's day Cards</a>
+                    <a href="categoryDropdown/103" class="list-group-item">Friendship Day Cards</a>
+            </div>
             </div>
    <div class="col-md-9">
 

@@ -62,7 +62,6 @@ public class CategoryDAOImpl implements CategoryDAO {
 		return list;
 	}
 
-
 @Transactional
 	public Category getByName(String name) {
 		String hql = "from Category where name =" + "'" + name + "'";

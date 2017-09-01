@@ -26,14 +26,14 @@ font-family: monotype corsiva;
 	
 }
 body {
-	background-image: url("http://eskipaper.com/images/necklace-hd-1.jpg");
+	background-image: url("http://img07.deviantart.net/2cbd/i/2013/003/1/1/greeting_card_paper_texture_background_by_desintgnmou-d5qcxtd.jpg");
 	background-repeat: repeat;
 	background-width: 150%;
 	background-height: 150%;
 	}
 
 .navbar {
-background-color: #661a00;
+background-color: black;
 	font-family: monotype corsiva;
 	font-size: 1.5em;
 	font-weight: bold;
@@ -48,7 +48,7 @@ background-color: #661a00;
 
 	<header>
 		<center>
-		<h1 style="font-family:monotype corsiva;"><img src="https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/564985/580/386/m1/fpnw/wm0/1-.jpg?1436816495&s=36d5eceba23d9355349d47697d8069b3	" height="77" width="77" style="font-family: monotype corsiva;" /><b>bookstore</b></h1>
+		<h1 style="font-family:monotype corsiva;"><img src="http://www.wordmstemplates.com/wp-content/uploads/2015/09/Greeting-Card-template-6698.jpg	" height="77" width="77" style="font-family: monotype corsiva;" /><b>Greeting Cards</b></h1>
 	</center>
 	<nav class="navbar navbar-inverse">
 

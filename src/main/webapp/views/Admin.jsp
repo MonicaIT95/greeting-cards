@@ -22,13 +22,13 @@ font-family: monotype corsiva;
 	
 }
 .navbar {
-background-color: #661a00;
+background-color: black;
 	font-family: monotype corsiva;
 	font-size: 1.5em;
 	font-weight: bold;
 	}
 	body {
-	background-image: url("http://eskipaper.com/images/necklace-hd-1.jpg");
+	background-image: url("http://img07.deviantart.net/2cbd/i/2013/003/1/1/greeting_card_paper_texture_background_by_desintgnmou-d5qcxtd.jpg");
 	background-size:300%;
 	background-repeat:no-repeat;
 }
@@ -37,7 +37,7 @@ background-color: #661a00;
 </head>
 <body>
 <center>
-		<h1 style="font-family:monotype corsiva;"><img src="http://www.bestbirthdaywishes.net/wp-content/uploads/2012/08/Greeting-Cards-102.jpg	" height="77" width="77" style="font-family: monotype corsiva;" /><b>Book Store</b></h1>
+		<h1 style="font-family:monotype corsiva;"><img src="http://www.wordmstemplates.com/wp-content/uploads/2015/09/Greeting-Card-template-6698.jpg	" height="77" width="77" style="font-family: monotype corsiva;" /><b>Greeting Cards</b></h1>
 	</center>
 	
 <div id="Admin">

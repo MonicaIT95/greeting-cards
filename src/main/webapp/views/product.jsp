@@ -26,6 +26,7 @@ color: #000000;
 font-weight: bold;
 }
 </style>
+
 </head>
 <body>
 <%@ include file="Admin.jsp"%><br/><br/>
@@ -159,6 +160,6 @@ font-weight: bold;
 				</tr>
 			</c:forEach>
 		</table>
-</c:if>
+	</c:if>
 </body>
 </html>

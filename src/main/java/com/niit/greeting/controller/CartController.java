@@ -24,6 +24,9 @@ import com.niit.greeting.model.Product;
 import com.niit.greeting.model.UserDetails;
 
 
+ //Only for User Role
+ //This controller is used to handle rest service calls.
+//All functionality related to user cart is written in this controller.
 
 @Controller
 @RequestMapping("/categoryDropdown/productDisplay/usercart/cart")

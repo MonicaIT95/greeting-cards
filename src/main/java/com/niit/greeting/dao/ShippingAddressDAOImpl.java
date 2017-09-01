@@ -1,5 +1,5 @@
 package com.niit.greeting.dao;
-/*
+/*package com.grostore.dao;
 
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
